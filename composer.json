@@ -1,0 +1,18 @@
+{
+  "name": "kingandpartners/acf-repeater",
+  "description": "Break free from static inputs and create multiple rows of loop-able data",
+  "keywords": ["wordpress", "plugin", "advancedcustomfields", "acf", "repeater"],
+  "homepage": "https://github.com/kingandpartners/acf-repeater",
+  "license": "This software is NOT to be distributed, but can be INCLUDED in WP themes: Premium or Contracted.",
+  "authors": [
+    {
+      "name": "Justin Grubbs",
+      "email": "justin@kingandpartners.com",
+      "homepage": "http://www.kingandpartners.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "v1.0.6"
+  }
+}
